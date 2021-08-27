@@ -9,7 +9,7 @@
   "option_sci_usesci": false,
   "option_author": "",
   "option_lastchanged": "",
-  "option_spine_licence": false,
+  "option_spine_licence": true,
   "resourceVersion": "1.2",
   "name": "Main",
   "tags": [],
