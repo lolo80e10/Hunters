@@ -1,5 +1,18 @@
 {
   "resources": [
+    {"id":{"name":"Rua8","path":"sprites/Rua8/Rua8.yy",},"order":9,},
+    {"id":{"name":"Rua2","path":"sprites/Rua2/Rua2.yy",},"order":3,},
+    {"id":{"name":"Rua3","path":"sprites/Rua3/Rua3.yy",},"order":4,},
+    {"id":{"name":"Rua","path":"sprites/Rua/Rua.yy",},"order":1,},
+    {"id":{"name":"Rua7","path":"sprites/Rua7/Rua7.yy",},"order":8,},
+    {"id":{"name":"Rua6","path":"sprites/Rua6/Rua6.yy",},"order":7,},
+    {"id":{"name":"Rua1","path":"sprites/Rua1/Rua1.yy",},"order":2,},
+    {"id":{"name":"RedTheBeholderIdle1","path":"sprites/RedTheBeholderIdle1/RedTheBeholderIdle1.yy",},"order":10,},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
+    {"id":{"name":"Rua9","path":"sprites/Rua9/Rua9.yy",},"order":11,},
+    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":0,},
+    {"id":{"name":"Rua4","path":"sprites/Rua4/Rua4.yy",},"order":5,},
+    {"id":{"name":"Rua5","path":"sprites/Rua5/Rua5.yy",},"order":6,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
