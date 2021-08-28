@@ -2,9 +2,10 @@
 // You can write your code in this editor
 input = true;
 spd = 5;
-
+pos_y = 0
 
 voando = false;
+
 
 //--------Dialogue Stuff
 

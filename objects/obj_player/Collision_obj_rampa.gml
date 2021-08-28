@@ -1,17 +1,12 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-speed_y = 0;
 
-
-
-
+pos_y = y;
+pos_x = x;
 input = false;
+direction = point_direction(x,y,x+4,y-7);
 image_angle = lerp(image_angle,40,0.2);
-
-
-
-vspeed -= 0.3;
-hspeed += 0.1;
-
-alarm[0] = 0.3 * room_speed;
+speed = 5
+voando = true;
+alarm[0] = 0.40*room_speed;

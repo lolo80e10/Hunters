@@ -27,20 +27,17 @@ y += moveY;
 }
 
 
-if(y >= 384 and voando){
-	vspeed = 0;
-	hspeed =0;
-	voando = false;
-	alarm[1] = 0.025 *room_speed;
-	
-}
+
 
 if (voando == false and image_angle != 0 and input){
 	image_angle = lerp(image_angle,0,0.2);
 }
 
-if(voando){
-	image_angle = lerp(image_angle,-40,0.05);
+
+if(y > pos_y+ 100){
+	speed = 0;
+	voando = false
+	input = true;
+	
+	
 }
-
-
