@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "carreto17",
-    "path": "sprites/carreto17/carreto17.yy",
+    "name": "Bike",
+    "path": "sprites/Bike/Bike.yy",
   },
   "solid": false,
   "visible": true,
