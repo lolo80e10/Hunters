@@ -1,6 +1,10 @@
 /// @description Insert description here
 // You can write your code in this editor
+input = true;
 spd = 5;
+
+
+voando = false;
 
 //--------Dialogue Stuff
 
