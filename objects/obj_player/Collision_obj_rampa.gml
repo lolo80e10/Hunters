@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if(y + 64 <= obj_rampa.y  +34){  
+if(y + 48 <= obj_rampa.y  +34){  
 if((x + 16 > obj_rampa.x -14) && voando == false){
 
 instance_destroy();
