@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "rampa",
-    "path": "sprites/rampa/rampa.yy",
+    "name": "rampa2",
+    "path": "sprites/rampa2/rampa2.yy",
   },
   "solid": false,
   "visible": true,

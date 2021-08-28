@@ -34,7 +34,7 @@ if (voando == false and image_angle != 0 and input){
 }
 
 
-if(y > pos_y+ 100){
+if(y > pos_y+50){
 	speed = 0;
 	voando = false
 	input = true;
