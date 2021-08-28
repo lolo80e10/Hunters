@@ -19,6 +19,7 @@
     {"id":{"name":"carreto","path":"sprites/carreto/carreto.yy",},"order":13,},
     {"id":{"name":"Rua5","path":"sprites/Rua5/Rua5.yy",},"order":6,},
     {"id":{"name":"rampa15","path":"sprites/rampa15/rampa15.yy",},"order":14,},
+    {"id":{"name":"rampa3","path":"sprites/rampa3/rampa3.yy",},"order":17,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
