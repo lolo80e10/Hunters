@@ -33,7 +33,6 @@
     {"id":{"name":"obj_casa","path":"objects/obj_casa/obj_casa.yy",},"order":5,},
     {"id":{"name":"carreto","path":"sprites/carreto/carreto.yy",},"order":13,},
     {"id":{"name":"spr_casa","path":"sprites/spr_casa/spr_casa.yy",},"order":21,},
-    {"id":{"name":"obj_casas","path":"objects/obj_casas/obj_casas.yy",},"order":11,},
     {"id":{"name":"Sprite20","path":"sprites/Sprite20/Sprite20.yy",},"order":20,},
     {"id":{"name":"obj_casa_fake","path":"objects/obj_casa_fake/obj_casa_fake.yy",},"order":7,},
     {"id":{"name":"obj_jogar","path":"objects/obj_jogar/obj_jogar.yy",},"order":3,},
