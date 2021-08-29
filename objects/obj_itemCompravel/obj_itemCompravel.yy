@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "ItensLoja",
-    "path": "sprites/ItensLoja/ItensLoja.yy",
+    "name": "Bike25",
+    "path": "sprites/Bike25/Bike25.yy",
   },
   "solid": false,
   "visible": true,
