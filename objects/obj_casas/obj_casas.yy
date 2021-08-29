@@ -4,7 +4,10 @@
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_NaoColidiveis",
+    "path": "objects/obj_NaoColidiveis/obj_NaoColidiveis.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,

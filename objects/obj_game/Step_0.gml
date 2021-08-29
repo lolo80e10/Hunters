@@ -7,8 +7,9 @@ tempo = 30;
 
 }
 
-if(global.qntPizzas < 0){
-	
+if(global.qntPizzas < 0 and gameover == false){
+	gameover = true;
 	room_goto(gameover);
 	
 }
+

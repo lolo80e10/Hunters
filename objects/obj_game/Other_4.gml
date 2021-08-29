@@ -5,6 +5,7 @@
 
 if(room == Room1){
 	if(room_last == Start){
+		gameover = false;
 		global.dinheiro = 100;
 		global.itensComprados = global.array_padr;
 		
