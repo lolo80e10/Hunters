@@ -3,7 +3,6 @@
 if(other.sprite_index == rampa3){
 if(y + 48 <= other.y  +34){  
 if((x + 48 > other.x -14) && voando == false){
-
 atingido = true
 
 }else{

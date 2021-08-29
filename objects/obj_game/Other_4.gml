@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 
-if(room == Start){
+if(room == Start and gameover){
 	zerar= true;
 }
 if(room == Room1){
@@ -10,7 +10,9 @@ if(room == Room1){
 		gameover = false;
 		global.dinheiro = 100;
 		global.itensComprados = global.array_padr;
+		global.comprouPizza = false;
 		zerar = false;
+		game_restart();
 	}
 	alarm[0] = 0.5 *room_speed;
 	alarm[1]= 1 * room_speed;

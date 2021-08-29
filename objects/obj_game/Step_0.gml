@@ -17,3 +17,4 @@ if(room == Gameover and gameover and mouse_check_button(mb_left)){
 	alarm[4] = 0.5 * room_speed;
 }
 
+//if keyboard_check_pressed(ord("R")) game_restart();

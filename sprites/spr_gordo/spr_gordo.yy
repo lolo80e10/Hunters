@@ -103,7 +103,7 @@
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
     "xorigin": 48,
-    "yorigin": 15,
+    "yorigin": 5,
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_gordo","path":"sprites/spr_gordo/spr_gordo.yy",},
