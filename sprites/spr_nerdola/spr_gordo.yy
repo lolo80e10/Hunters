@@ -117,8 +117,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Comedores de Pizza",
-    "path": "folders/Sprites/Comedores de Pizza.yy",
+    "name": "Comedores de pizza",
+    "path": "folders/Sprites/Comedores de pizza.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_gordo",
