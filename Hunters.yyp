@@ -72,8 +72,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Loja","path":"rooms/Loja/Loja.yy",},},
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Start","path":"rooms/Start/Start.yy",},},
   ],
   "Folders": [

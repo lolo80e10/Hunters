@@ -3,7 +3,3 @@
 
 image_speed = 0;
 
-//switch (ob){
-	
-//}
-//valor_item;
