@@ -1,4 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-
-room_goto(Loja);
+if(room == Room1){
+tempo -= 1
+alarm[1]= 1 * room_speed;
+}

@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"Rua10","path":"sprites/Rua10/Rua10.yy",},"order":2,},
+    {"id":{"name":"Font","path":"fonts/Font/Font.yy",},"order":0,},
     {"id":{"name":"Loja","path":"rooms/Loja/Loja.yy",},"order":2,},
     {"id":{"name":"spr_setaDireita","path":"sprites/spr_setaDireita/spr_setaDireita.yy",},"order":2,},
     {"id":{"name":"obj_sairLoja","path":"objects/obj_sairLoja/obj_sairLoja.yy",},"order":5,},
@@ -33,7 +34,6 @@
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"Sprite33","path":"sprites/Sprite33/Sprite33.yy",},"order":16,},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":0,},
-    {"id":{"name":"obj_casa","path":"objects/obj_casa/obj_casa.yy",},"order":5,},
     {"id":{"name":"carreto","path":"sprites/carreto/carreto.yy",},"order":13,},
     {"id":{"name":"spr_casa","path":"sprites/spr_casa/spr_casa.yy",},"order":21,},
     {"id":{"name":"obj_casas","path":"objects/obj_casas/obj_casas.yy",},"order":11,},
@@ -68,8 +68,8 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"Start","path":"rooms/Start/Start.yy",},},
-    {"roomId":{"name":"Loja","path":"rooms/Loja/Loja.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Loja","path":"rooms/Loja/Loja.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
