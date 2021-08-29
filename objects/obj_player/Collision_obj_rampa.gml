@@ -7,6 +7,7 @@ if((x + 48 > obj_rampa.x -14) && voando == false){
 atingido = true
 
 if(atingido == true && invulneravel == false){
+	instance_create_layer(x  , y  , "Instances", obj_debris);
 	invulneravel = true;
 	blink = true;
 	global.qntPizzas -= 1;
