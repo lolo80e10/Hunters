@@ -1,10 +1,22 @@
 /// @description Insert description here
 // You can write your code in this editor
 if(input == true){
-input_left		= keyboard_check(vk_left);
-input_right		= keyboard_check(vk_right);
-input_up		= keyboard_check(vk_up);
-input_down		= keyboard_check(vk_down);
+	input_left		= keyboard_check(ord("A"));
+	input_right		= keyboard_check(ord("D"));
+	input_up		= keyboard_check(ord("W"));
+	input_down		= keyboard_check(ord("S"));
+if(x-48 <= 0){
+input_left		= 0;
+}
+if(x+48 >= room_width){
+input_right = 0;
+}
+if(y-48<= 0){ 
+input_up = 0;
+}
+if(y+48 >= room_height){
+input_down = 0;
+}
 input_run		= keyboard_check(vk_shift);
 input_walk		= keyboard_check(vk_control);
 
@@ -25,8 +37,11 @@ if(right != 0 or left != 0){
 x += moveX;
 y += moveY;
 }
-
-
+if(input_left == true){
+	
+	image_angle = lerp(image_angle,90,0.15);
+	
+}
 
 
 if (voando == false and image_angle != 0 and input){
