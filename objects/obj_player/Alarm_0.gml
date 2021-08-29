@@ -10,3 +10,4 @@ image_angle = angle
 speed = 5
 alarm[0] = 0.05*room_speed;
 }
+

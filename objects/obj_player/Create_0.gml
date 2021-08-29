@@ -11,6 +11,9 @@ input_left = 0;
 input_down = 0;
 input_up = 0;
 
+atingido = false;
+invulneravel = false;
+
 
 //--------Dialogue Stuff
 

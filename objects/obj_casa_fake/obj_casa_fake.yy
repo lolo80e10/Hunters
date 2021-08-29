@@ -8,8 +8,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "obj_casas",
-    "path": "objects/obj_casas/obj_casas.yy",
+    "name": "obj_NaoColidiveis",
+    "path": "objects/obj_NaoColidiveis/obj_NaoColidiveis.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,

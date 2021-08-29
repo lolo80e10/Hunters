@@ -5,4 +5,4 @@ global.dinheiro =100;
 
 global.itensComprados = array_create(1);
 global.itensComprados[0] = -1;
-
+global.qntPizzas = 0;
