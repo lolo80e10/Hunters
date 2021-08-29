@@ -7,8 +7,7 @@ switch(room){
 	var g = c_yellow;
 	var j = c_orange;
 		//draw_text(10,10,"Tempo:"+ string(tempo));
-		draw_text_transformed_color(10,10,"  "+ string(tempo),2,2,0,c,c,c,c,1)
-		//draw_text(10,30,"Pizzas:"+ string(global.qntPizzas));
+		draw_text_transformed_color(10,10,"  "+ string(global.tempo),2,2,0,c,c,c,c,1);
 		draw_text_transformed_color(10,50,"   "+ string(global.dinheiro),2,2,0,g,g,g,g,1)
 		draw_text_transformed_color(10,90,"  "+ string(global.qntPizzas),2,2,0,j,j,j,j,1)
 		break;

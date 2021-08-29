@@ -2,5 +2,6 @@
 // You can write your code in this editor
 randomize();
 profundidade = 0;
-tempo = 30 ;
+global.tempo = 30 ;
 gameover = false;
+zerar = false;
