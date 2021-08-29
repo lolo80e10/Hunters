@@ -42,6 +42,15 @@ if(input_left == true){
 	image_angle = lerp(image_angle,90,0.15);
 	
 }
+if(input_up == true){
+	
+	image_angle = lerp(image_angle,45,0.15);
+	
+}if(input_down == true){
+	
+	image_angle = lerp(image_angle,-45,0.15);
+	
+}
 
 
 if (voando == false and image_angle != 0 and input){
@@ -57,9 +66,9 @@ if(y > pos_y+50){
 	
 }
 if(mouse_check_button(mb_left) && tiro == false and room == Room1 and global.qntPizzas >0){
-
+sprite_index = BikeJogando;
 var dir = point_direction(x,y,mouse_x,mouse_y);
-var pizza = instance_create_layer(x,y,"Instances",obj_pizza);
+var pizza = instance_create_layer(x + 21,y - 21,"Instances",obj_pizza);
 pizza.direction = dir;
 pizza.speed = 10;
 tiro = true;

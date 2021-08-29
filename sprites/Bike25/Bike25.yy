@@ -129,8 +129,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Jogador",
+    "path": "folders/Sprites/Jogador.yy",
   },
   "resourceVersion": "1.0",
   "name": "Bike25",
