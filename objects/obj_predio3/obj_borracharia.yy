@@ -31,7 +31,7 @@
     "path": "folders/Objects/Casas.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_casa_fake",
+  "name": "obj_borracharia",
   "tags": [],
   "resourceType": "GMObject",
 }

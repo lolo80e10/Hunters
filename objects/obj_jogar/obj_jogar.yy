@@ -26,8 +26,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Botoes",
+    "path": "folders/Objects/Botoes.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_jogar",

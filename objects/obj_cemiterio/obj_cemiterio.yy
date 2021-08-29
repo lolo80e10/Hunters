@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_predio_1",
-    "path": "sprites/spr_predio_1/spr_predio_1.yy",
+    "name": "spr_cemiterio",
+    "path": "sprites/spr_cemiterio/spr_cemiterio.yy",
   },
   "solid": false,
   "visible": true,
@@ -31,7 +31,7 @@
     "path": "folders/Objects/Casas.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_casa_fake",
+  "name": "obj_cemiterio",
   "tags": [],
   "resourceType": "GMObject",
 }
