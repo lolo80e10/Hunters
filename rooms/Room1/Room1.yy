@@ -30,11 +30,7 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_7EF6D905","path":"rooms/Room1/Room1.yy",},
-<<<<<<< Updated upstream
     {"name":"inst_212AE9CC","path":"rooms/Room1/Room1.yy",},
-=======
-    {"name":"inst_132E0E66","path":"rooms/Room1/Room1.yy",},
->>>>>>> Stashed changes
     {"name":"inst_7EE0ED75","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_6EEDFEF0","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_442DE8B0","path":"rooms/Room1/Room1.yy",},
