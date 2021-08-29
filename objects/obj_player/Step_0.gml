@@ -41,3 +41,16 @@ if(y > pos_y+50){
 	
 	
 }
+if(mouse_check_button(mb_left) && tiro == false){
+
+var dir = point_direction(x,y,mouse_x,mouse_y);
+var pizza = instance_create_layer(x,y,"Instances",obj_pizza);
+pizza.direction = dir;
+pizza.speed = 15
+tiro = true;
+alarm[1] = 0.25*room_speed
+
+
+	
+	
+}

@@ -3,7 +3,7 @@
 input = true;
 spd = 5;
 pos_y = 0
-
+tiro = false;
 voando = false;
 
 

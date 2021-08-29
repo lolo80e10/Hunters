@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_casa2",
-    "path": "sprites/spr_casa2/spr_casa2.yy",
+    "name": "Predio_1",
+    "path": "sprites/Predio_1/Predio_1.yy",
   },
   "solid": false,
   "visible": true,
