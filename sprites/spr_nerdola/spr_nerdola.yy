@@ -93,8 +93,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Hunters",
-    "path": "Hunters.yyp",
+    "name": "Comedores de pizza",
+    "path": "folders/Sprites/Comedores de pizza.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_nerdola",

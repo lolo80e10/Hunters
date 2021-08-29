@@ -64,6 +64,7 @@
     {"id":{"name":"Mesaa","path":"sprites/Mesaa/Mesaa.yy",},"order":0,},
     {"id":{"name":"rampa3","path":"sprites/rampa3/rampa3.yy",},"order":8,},
     {"id":{"name":"spr_predio_2","path":"sprites/spr_predio_2/spr_predio_2.yy",},"order":5,},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
@@ -85,7 +86,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"Start","path":"rooms/Start/Start.yy",},},
-    {"roomId":{"name":"","path":"",},},
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Loja","path":"rooms/Loja/Loja.yy",},},
     {"roomId":{"name":"Gameover","path":"rooms/Gameover/Gameover.yy",},},
   ],
