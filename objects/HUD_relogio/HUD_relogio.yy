@@ -1,15 +1,15 @@
 {
   "spriteId": {
-    "name": "spr_casa",
-    "path": "sprites/spr_casa/spr_casa.yy",
+    "name": "Relogio",
+    "path": "sprites/Relogio/Relogio.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "obj_casas",
-    "path": "objects/obj_casas/obj_casas.yy",
+    "name": "HUD",
+    "path": "objects/HUD/HUD.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -27,11 +27,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "HUD",
+    "path": "folders/Objects/HUD.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_casa_entrega",
+  "name": "HUD_relogio",
   "tags": [],
   "resourceType": "GMObject",
 }

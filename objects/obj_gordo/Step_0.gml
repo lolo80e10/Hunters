@@ -1,9 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-global.dinheiro += 10;
-
-instance_destroy();
-with(other){
+if(x <=  -100){
 	instance_destroy();
 }
