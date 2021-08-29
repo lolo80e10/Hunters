@@ -6,3 +6,9 @@ tempo = 30;
 
 
 }
+
+if(global.qntPizzas < 0){
+	
+	room_goto(gameover);
+	
+}

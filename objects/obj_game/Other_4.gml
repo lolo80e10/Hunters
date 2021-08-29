@@ -4,6 +4,12 @@
 global.qntPizzas = 5;
 
 if(room == Room1){
+	if(room_last == Start){
+		global.dinheiro = 100;
+		global.itensComprados = global.array_padr;
+		
+		
+	}
 	alarm[0] = 0.5 *room_speed;
 	alarm[1]= 1 * room_speed;
 	alarm[3]= random_range(5,10) * room_speed;

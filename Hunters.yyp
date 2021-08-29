@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"Rua10","path":"sprites/Rua10/Rua10.yy",},"order":2,},
     {"id":{"name":"Font","path":"fonts/Font/Font.yy",},"order":0,},
+    {"id":{"name":"gameover","path":"rooms/gameover/gameover.yy",},"order":3,},
     {"id":{"name":"Loja","path":"rooms/Loja/Loja.yy",},"order":2,},
     {"id":{"name":"spr_gordo","path":"sprites/spr_gordo/spr_gordo.yy",},"order":22,},
     {"id":{"name":"spr_setaDireita","path":"sprites/spr_setaDireita/spr_setaDireita.yy",},"order":2,},
@@ -73,6 +74,7 @@
     {"roomId":{"name":"Start","path":"rooms/Start/Start.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Loja","path":"rooms/Loja/Loja.yy",},},
+    {"roomId":{"name":"gameover","path":"rooms/gameover/gameover.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

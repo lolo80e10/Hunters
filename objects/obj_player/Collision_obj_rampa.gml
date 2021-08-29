@@ -4,7 +4,16 @@
 if(y + 48 <= obj_rampa.y  +34){  
 if((x + 48 > obj_rampa.x -14) && voando == false){
 
-instance_destroy();
+atingido = true
+
+if(atingido == true && invulneravel == false){
+	invulneravel = true;
+	blink = true;
+	global.qntPizzas -= 1;
+	alarm[3] = 150;
+	alarm[2] = 0.25*room_speed;
+	
+}
 }else{
 pos_y = y;
 pos_x = x;
