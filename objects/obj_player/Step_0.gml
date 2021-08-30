@@ -69,6 +69,7 @@ if(mouse_check_button(mb_left) && tiro == false and room == Room1 and global.qnt
 sprite_index = BikeJogando;
 var dir = point_direction(x,y,mouse_x,mouse_y);
 var pizza = instance_create_layer(x + 21,y - 21,"Instances",obj_pizza);
+SoundFX(atirar);
 pizza.direction = dir;
 pizza.speed = 10;
 tiro = true;

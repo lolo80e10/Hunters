@@ -14,6 +14,10 @@ if(room == Room1){
 		zerar = false;
 		game_restart();
 	}
+	if(!audio_is_playing(Theme)){
+	audio_play_sound(Theme,4,true);
+
+}
 	alarm[0] = 0.5 *room_speed;
 	alarm[1]= 1 * room_speed;
 	alarm[2] = random_range(1,3)* room_speed;

@@ -13,7 +13,12 @@ direction = point_direction(x,y,x+80,y-102);
 image_angle = lerp(image_angle,32,0.3);
 speed = 5
 voando = true;
+if(!audio_is_playing(pulo)){
+	audio_play_sound(pulo,5,false);
+
+}
 alarm[0] = 0.40*room_speed;
+
 }
 
 }
@@ -24,6 +29,9 @@ atingido = true
 
 if(atingido == true && invulneravel == false){
 	instance_create_layer(x  , y  , "Instances", obj_debris);
+	if(other.sprite_index == Garrafa){
+		SoundFX(garrafa)
+	}else SoundFX(dano_player);
 	invulneravel = true;
 	blink = true;
 	global.qntPizzas -= 1;

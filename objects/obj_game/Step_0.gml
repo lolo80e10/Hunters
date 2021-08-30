@@ -9,6 +9,10 @@ global.tempo = 30;
 
 if(global.qntPizzas < 0 and gameover == false){
 	gameover = true;
+	if(audio_is_playing(Theme)){
+	audio_stop_sound(Theme);
+
+}
 	room_goto(Gameover);
 	
 }
