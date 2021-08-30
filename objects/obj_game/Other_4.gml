@@ -8,7 +8,7 @@ if(room == Start and gameover){
 if(room == Room1){
 	if(zerar){
 		gameover = false;
-		global.dinheiro = 100;
+		global.dinheiro = 0;
 		global.itensComprados = global.array_padr;
 		global.comprouPizza = false;
 		zerar = false;
@@ -24,10 +24,10 @@ if(room == Room1){
 	alarm[3]= random_range(5,10) * room_speed;
 	
 	if(global.comprouPizza){
-		global.qntPizzas = 10;
+		global.qntPizzas = 11;
 	}
 	else{
-		global.qntPizzas = 5;
+		global.qntPizzas = 6;
 		}
 	}
 

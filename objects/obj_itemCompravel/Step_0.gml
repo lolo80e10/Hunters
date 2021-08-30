@@ -4,14 +4,14 @@
 switch (image_index){
 
 	case 0:
-	valor_item = 10;
+	valor_item = 200;
 	break;
 	
 	case 1:
-	valor_item = 20;
+	valor_item = 100;
 	break;
 	case 2:
 	
-	valor_item = 30;
+	valor_item = 1000;
 	break;
 }

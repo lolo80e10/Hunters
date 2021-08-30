@@ -1,15 +1,15 @@
 {
   "spriteId": {
-    "name": "spr_cemiterio",
-    "path": "sprites/spr_cemiterio/spr_cemiterio.yy",
+    "name": "Zumbi",
+    "path": "sprites/Zumbi/Zumbi.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "obj_casas",
-    "path": "objects/obj_casas/obj_casas.yy",
+    "name": "obj_NaoColidiveis",
+    "path": "objects/obj_NaoColidiveis/obj_NaoColidiveis.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -25,15 +25,17 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_pizza","path":"objects/obj_pizza/obj_pizza.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Casas",
-    "path": "folders/Objects/Casas.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_cemiterio",
+  "name": "obj_zombie",
   "tags": [],
   "resourceType": "GMObject",
 }

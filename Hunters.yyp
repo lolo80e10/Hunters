@@ -6,6 +6,7 @@
     {"id":{"name":"ItensLoja","path":"sprites/ItensLoja/ItensLoja.yy",},"order":6,},
     {"id":{"name":"spr_lancado","path":"sprites/spr_lancado/spr_lancado.yy",},"order":7,},
     {"id":{"name":"Gameover","path":"rooms/Gameover/Gameover.yy",},"order":3,},
+    {"id":{"name":"obj_zombie","path":"objects/obj_zombie/obj_zombie.yy",},"order":21,},
     {"id":{"name":"Loja","path":"rooms/Loja/Loja.yy",},"order":2,},
     {"id":{"name":"Game_Over","path":"sprites/Game_Over/Game_Over.yy",},"order":30,},
     {"id":{"name":"Seta","path":"sprites/Seta/Seta.yy",},"order":3,},
@@ -50,6 +51,7 @@
     {"id":{"name":"obj_lancado","path":"objects/obj_lancado/obj_lancado.yy",},"order":6,},
     {"id":{"name":"Cadeira","path":"sprites/Cadeira/Cadeira.yy",},"order":2,},
     {"id":{"name":"obj_debris","path":"objects/obj_debris/obj_debris.yy",},"order":0,},
+    {"id":{"name":"Zumbi","path":"sprites/Zumbi/Zumbi.yy",},"order":4,},
     {"id":{"name":"HUD_dinheiro","path":"objects/HUD_dinheiro/HUD_dinheiro.yy",},"order":1,},
     {"id":{"name":"obj_cemiterio","path":"objects/obj_cemiterio/obj_cemiterio.yy",},"order":3,},
     {"id":{"name":"dano_npc","path":"sounds/dano_npc/dano_npc.yy",},"order":5,},
@@ -73,6 +75,7 @@
     {"id":{"name":"obj_seta","path":"objects/obj_seta/obj_seta.yy",},"order":20,},
     {"id":{"name":"rampa3","path":"sprites/rampa3/rampa3.yy",},"order":8,},
     {"id":{"name":"spr_predio_2","path":"sprites/spr_predio_2/spr_predio_2.yy",},"order":5,},
+    {"id":{"name":"BackGroundLoja","path":"sprites/BackGroundLoja/BackGroundLoja.yy",},"order":8,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
