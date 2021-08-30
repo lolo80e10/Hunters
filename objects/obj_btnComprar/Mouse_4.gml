@@ -16,7 +16,7 @@ if(global.dinheiro >= obj_itemCompravel.valor_item and achou == false){
 				break;
 				
 				case 2:
-				//animção de final do game com ele andando na moto
+				room_goto(EndGame);
 				break;
 		}
 }

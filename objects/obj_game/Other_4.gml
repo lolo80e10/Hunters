@@ -30,6 +30,11 @@ if(room == Room1){
 		global.qntPizzas = 6;
 		}
 	}
+	
+if(room == EndGame){
+	alarm[5] = 6 * room_speed;
+
+}
 
 
 

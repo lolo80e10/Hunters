@@ -13,6 +13,7 @@
     {"id":{"name":"spr_cemiterio","path":"sprites/spr_cemiterio/spr_cemiterio.yy",},"order":3,},
     {"id":{"name":"spr_gordo","path":"sprites/spr_gordo/spr_gordo.yy",},"order":0,},
     {"id":{"name":"spr_setaDireita","path":"sprites/spr_setaDireita/spr_setaDireita.yy",},"order":2,},
+    {"id":{"name":"Moto","path":"sprites/Moto/Moto.yy",},"order":2,},
     {"id":{"name":"obj_sairLoja","path":"objects/obj_sairLoja/obj_sairLoja.yy",},"order":5,},
     {"id":{"name":"HUD","path":"objects/HUD/HUD.yy",},"order":2,},
     {"id":{"name":"Start","path":"rooms/Start/Start.yy",},"order":1,},
@@ -54,6 +55,7 @@
     {"id":{"name":"Zumbi","path":"sprites/Zumbi/Zumbi.yy",},"order":4,},
     {"id":{"name":"HUD_dinheiro","path":"objects/HUD_dinheiro/HUD_dinheiro.yy",},"order":1,},
     {"id":{"name":"obj_cemiterio","path":"objects/obj_cemiterio/obj_cemiterio.yy",},"order":3,},
+    {"id":{"name":"EndGame","path":"rooms/EndGame/EndGame.yy",},"order":5,},
     {"id":{"name":"dano_npc","path":"sounds/dano_npc/dano_npc.yy",},"order":5,},
     {"id":{"name":"obj_casa_entrega","path":"objects/obj_casa_entrega/obj_casa_entrega.yy",},"order":0,},
     {"id":{"name":"spr_setaEsquerda","path":"sprites/spr_setaEsquerda/spr_setaEsquerda.yy",},"order":3,},
@@ -102,6 +104,7 @@
     {"roomId":{"name":"Loja","path":"rooms/Loja/Loja.yy",},},
     {"roomId":{"name":"Gameover","path":"rooms/Gameover/Gameover.yy",},},
     {"roomId":{"name":"Start2","path":"rooms/Start2/Start2.yy",},},
+    {"roomId":{"name":"EndGame","path":"rooms/EndGame/EndGame.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
