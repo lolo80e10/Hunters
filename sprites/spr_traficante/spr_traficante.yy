@@ -117,8 +117,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Comedores de pizza",
-    "path": "folders/Sprites/Comedores de pizza.yy",
+    "name": "Hunters",
+    "path": "Hunters.yyp",
   },
   "resourceVersion": "1.0",
   "name": "spr_traficante",
