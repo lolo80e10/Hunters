@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "BikeJogando",
   "bboxMode": 2,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 32,
   "height": 32,
   "textureGroupId": {
@@ -24,36 +28,20 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"8df0c4c0-ec99-410e-b317-7aead0a82fbf","path":"sprites/BikeJogando/BikeJogando.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8df0c4c0-ec99-410e-b317-7aead0a82fbf","path":"sprites/BikeJogando/BikeJogando.yy",},"LayerId":{"name":"58e64501-602b-4752-8b79-93fb8b5b6c27","path":"sprites/BikeJogando/BikeJogando.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"BikeJogando","path":"sprites/BikeJogando/BikeJogando.yy",},"resourceVersion":"1.0","name":"8df0c4c0-ec99-410e-b317-7aead0a82fbf","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"41a6e02c-cd01-4438-9dc6-9ae761b21c04","path":"sprites/BikeJogando/BikeJogando.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"41a6e02c-cd01-4438-9dc6-9ae761b21c04","path":"sprites/BikeJogando/BikeJogando.yy",},"LayerId":{"name":"58e64501-602b-4752-8b79-93fb8b5b6c27","path":"sprites/BikeJogando/BikeJogando.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"BikeJogando","path":"sprites/BikeJogando/BikeJogando.yy",},"resourceVersion":"1.0","name":"41a6e02c-cd01-4438-9dc6-9ae761b21c04","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"dcb86190-aa8b-4dd3-83c9-8cbb0d48753a","path":"sprites/BikeJogando/BikeJogando.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"dcb86190-aa8b-4dd3-83c9-8cbb0d48753a","path":"sprites/BikeJogando/BikeJogando.yy",},"LayerId":{"name":"58e64501-602b-4752-8b79-93fb8b5b6c27","path":"sprites/BikeJogando/BikeJogando.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"BikeJogando","path":"sprites/BikeJogando/BikeJogando.yy",},"resourceVersion":"1.0","name":"dcb86190-aa8b-4dd3-83c9-8cbb0d48753a","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"4410d5b4-79d8-45bf-bc3d-d6484a92bf4f","path":"sprites/BikeJogando/BikeJogando.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4410d5b4-79d8-45bf-bc3d-d6484a92bf4f","path":"sprites/BikeJogando/BikeJogando.yy",},"LayerId":{"name":"58e64501-602b-4752-8b79-93fb8b5b6c27","path":"sprites/BikeJogando/BikeJogando.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"BikeJogando","path":"sprites/BikeJogando/BikeJogando.yy",},"resourceVersion":"1.0","name":"4410d5b4-79d8-45bf-bc3d-d6484a92bf4f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9e23586d-2e33-45da-aa01-ebe8c3187733","path":"sprites/BikeJogando/BikeJogando.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9e23586d-2e33-45da-aa01-ebe8c3187733","path":"sprites/BikeJogando/BikeJogando.yy",},"LayerId":{"name":"58e64501-602b-4752-8b79-93fb8b5b6c27","path":"sprites/BikeJogando/BikeJogando.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"BikeJogando","path":"sprites/BikeJogando/BikeJogando.yy",},"resourceVersion":"1.0","name":"9e23586d-2e33-45da-aa01-ebe8c3187733","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"cee0a68d-480e-458d-9ea7-dd9e281223d2","path":"sprites/BikeJogando/BikeJogando.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"cee0a68d-480e-458d-9ea7-dd9e281223d2","path":"sprites/BikeJogando/BikeJogando.yy",},"LayerId":{"name":"58e64501-602b-4752-8b79-93fb8b5b6c27","path":"sprites/BikeJogando/BikeJogando.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"BikeJogando","path":"sprites/BikeJogando/BikeJogando.yy",},"resourceVersion":"1.0","name":"cee0a68d-480e-458d-9ea7-dd9e281223d2","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"bf22b1ea-e781-4219-a0a7-0b5f9b8b8b45","path":"sprites/BikeJogando/BikeJogando.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"bf22b1ea-e781-4219-a0a7-0b5f9b8b8b45","path":"sprites/BikeJogando/BikeJogando.yy",},"LayerId":{"name":"58e64501-602b-4752-8b79-93fb8b5b6c27","path":"sprites/BikeJogando/BikeJogando.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"BikeJogando","path":"sprites/BikeJogando/BikeJogando.yy",},"resourceVersion":"1.0","name":"bf22b1ea-e781-4219-a0a7-0b5f9b8b8b45","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"65927e78-8307-4beb-badc-2105989944d7","path":"sprites/BikeJogando/BikeJogando.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"65927e78-8307-4beb-badc-2105989944d7","path":"sprites/BikeJogando/BikeJogando.yy",},"LayerId":{"name":"58e64501-602b-4752-8b79-93fb8b5b6c27","path":"sprites/BikeJogando/BikeJogando.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"BikeJogando","path":"sprites/BikeJogando/BikeJogando.yy",},"resourceVersion":"1.0","name":"65927e78-8307-4beb-badc-2105989944d7","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d3da4c8c-d8dd-4e5f-a65e-2c799d6cea0c","path":"sprites/BikeJogando/BikeJogando.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d3da4c8c-d8dd-4e5f-a65e-2c799d6cea0c","path":"sprites/BikeJogando/BikeJogando.yy",},"LayerId":{"name":"58e64501-602b-4752-8b79-93fb8b5b6c27","path":"sprites/BikeJogando/BikeJogando.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"BikeJogando","path":"sprites/BikeJogando/BikeJogando.yy",},"resourceVersion":"1.0","name":"d3da4c8c-d8dd-4e5f-a65e-2c799d6cea0c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8df0c4c0-ec99-410e-b317-7aead0a82fbf",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"41a6e02c-cd01-4438-9dc6-9ae761b21c04",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"dcb86190-aa8b-4dd3-83c9-8cbb0d48753a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4410d5b4-79d8-45bf-bc3d-d6484a92bf4f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9e23586d-2e33-45da-aa01-ebe8c3187733",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"cee0a68d-480e-458d-9ea7-dd9e281223d2",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"bf22b1ea-e781-4219-a0a7-0b5f9b8b8b45",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"65927e78-8307-4beb-badc-2105989944d7",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d3da4c8c-d8dd-4e5f-a65e-2c799d6cea0c",},
   ],
   "sequence": {
-    "spriteId": {"name":"BikeJogando","path":"sprites/BikeJogando/BikeJogando.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "BikeJogando",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 10.0,
@@ -64,7 +52,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"a55000b2-1e94-48ff-b768-79331cf29f91","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8df0c4c0-ec99-410e-b317-7aead0a82fbf","path":"sprites/BikeJogando/BikeJogando.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"f80af424-fc34-4b05-ae42-ba682ff78c81","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"41a6e02c-cd01-4438-9dc6-9ae761b21c04","path":"sprites/BikeJogando/BikeJogando.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"0781a6a4-592d-419d-b95d-cb6824bbf7fe","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"dcb86190-aa8b-4dd3-83c9-8cbb0d48753a","path":"sprites/BikeJogando/BikeJogando.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -74,7 +62,7 @@
             {"id":"3ed17e9d-9de3-432a-9db3-402a2e34036f","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"bf22b1ea-e781-4219-a0a7-0b5f9b8b8b45","path":"sprites/BikeJogando/BikeJogando.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"87f50e46-8e8e-405c-8176-adc09c0f069e","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"65927e78-8307-4beb-badc-2105989944d7","path":"sprites/BikeJogando/BikeJogando.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"8634cdd7-4a78-43d6-9841-c7e4be2682b7","Key":8.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d3da4c8c-d8dd-4e5f-a65e-2c799d6cea0c","path":"sprites/BikeJogando/BikeJogando.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -90,22 +78,13 @@
     "yorigin": 16,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"BikeJogando","path":"sprites/BikeJogando/BikeJogando.yy",},
-    "resourceVersion": "1.3",
-    "name": "BikeJogando",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"58e64501-602b-4752-8b79-93fb8b5b6c27","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"58e64501-602b-4752-8b79-93fb8b5b6c27","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "Jogador",
     "path": "folders/Sprites/Jogador.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "BikeJogando",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

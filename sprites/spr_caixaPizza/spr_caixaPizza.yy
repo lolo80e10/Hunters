@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_caixaPizza",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 64,
   "height": 64,
   "textureGroupId": {
@@ -24,18 +28,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"c5afe74a-c9d2-4931-866c-7e81710250a1","path":"sprites/spr_caixaPizza/spr_caixaPizza.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c5afe74a-c9d2-4931-866c-7e81710250a1","path":"sprites/spr_caixaPizza/spr_caixaPizza.yy",},"LayerId":{"name":"357f1dd0-24b4-4623-b08b-bfc9701bb7b9","path":"sprites/spr_caixaPizza/spr_caixaPizza.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_caixaPizza","path":"sprites/spr_caixaPizza/spr_caixaPizza.yy",},"resourceVersion":"1.0","name":"c5afe74a-c9d2-4931-866c-7e81710250a1","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"5f1375bc-5443-4341-a8a2-6d3a12ab8ae5","path":"sprites/spr_caixaPizza/spr_caixaPizza.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5f1375bc-5443-4341-a8a2-6d3a12ab8ae5","path":"sprites/spr_caixaPizza/spr_caixaPizza.yy",},"LayerId":{"name":"357f1dd0-24b4-4623-b08b-bfc9701bb7b9","path":"sprites/spr_caixaPizza/spr_caixaPizza.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_caixaPizza","path":"sprites/spr_caixaPizza/spr_caixaPizza.yy",},"resourceVersion":"1.0","name":"5f1375bc-5443-4341-a8a2-6d3a12ab8ae5","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"8405eb44-9e67-4716-a093-526b3bc41a47","path":"sprites/spr_caixaPizza/spr_caixaPizza.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8405eb44-9e67-4716-a093-526b3bc41a47","path":"sprites/spr_caixaPizza/spr_caixaPizza.yy",},"LayerId":{"name":"357f1dd0-24b4-4623-b08b-bfc9701bb7b9","path":"sprites/spr_caixaPizza/spr_caixaPizza.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_caixaPizza","path":"sprites/spr_caixaPizza/spr_caixaPizza.yy",},"resourceVersion":"1.0","name":"8405eb44-9e67-4716-a093-526b3bc41a47","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c5afe74a-c9d2-4931-866c-7e81710250a1",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5f1375bc-5443-4341-a8a2-6d3a12ab8ae5",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8405eb44-9e67-4716-a093-526b3bc41a47",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_caixaPizza","path":"sprites/spr_caixaPizza/spr_caixaPizza.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_caixaPizza",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 10.0,
@@ -46,11 +46,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"9401fcdc-927f-499f-b7f9-bb5b515b5f67","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c5afe74a-c9d2-4931-866c-7e81710250a1","path":"sprites/spr_caixaPizza/spr_caixaPizza.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"9ddb9459-1ce6-4982-9d18-ad31414e2e53","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5f1375bc-5443-4341-a8a2-6d3a12ab8ae5","path":"sprites/spr_caixaPizza/spr_caixaPizza.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"52f6ec12-1d58-4966-99b2-953e6e6793bd","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8405eb44-9e67-4716-a093-526b3bc41a47","path":"sprites/spr_caixaPizza/spr_caixaPizza.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -66,22 +66,13 @@
     "yorigin": 32,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_caixaPizza","path":"sprites/spr_caixaPizza/spr_caixaPizza.yy",},
-    "resourceVersion": "1.3",
-    "name": "spr_caixaPizza",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"357f1dd0-24b4-4623-b08b-bfc9701bb7b9","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"357f1dd0-24b4-4623-b08b-bfc9701bb7b9","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "Sprites",
     "path": "folders/Sprites.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_caixaPizza",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

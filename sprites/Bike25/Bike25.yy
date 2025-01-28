@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "Bike25",
   "bboxMode": 2,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 32,
   "height": 32,
   "textureGroupId": {
@@ -24,57 +28,27 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"1c5af6d5-1263-46d7-b79c-6d77460ecf29","path":"sprites/Bike25/Bike25.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"1c5af6d5-1263-46d7-b79c-6d77460ecf29","path":"sprites/Bike25/Bike25.yy",},"LayerId":{"name":"07a3169f-3d6a-4873-aa92-ec6cbd33d128","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Bike25","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","name":"1c5af6d5-1263-46d7-b79c-6d77460ecf29","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d26f6e87-f306-46d4-93db-bd0101a4f478","path":"sprites/Bike25/Bike25.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d26f6e87-f306-46d4-93db-bd0101a4f478","path":"sprites/Bike25/Bike25.yy",},"LayerId":{"name":"07a3169f-3d6a-4873-aa92-ec6cbd33d128","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Bike25","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","name":"d26f6e87-f306-46d4-93db-bd0101a4f478","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"edf0240b-f56a-40f6-be9d-ffdbdb2deffe","path":"sprites/Bike25/Bike25.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"edf0240b-f56a-40f6-be9d-ffdbdb2deffe","path":"sprites/Bike25/Bike25.yy",},"LayerId":{"name":"07a3169f-3d6a-4873-aa92-ec6cbd33d128","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Bike25","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","name":"edf0240b-f56a-40f6-be9d-ffdbdb2deffe","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ba1bcfe1-4073-4f32-be32-cf2773eec1c0","path":"sprites/Bike25/Bike25.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ba1bcfe1-4073-4f32-be32-cf2773eec1c0","path":"sprites/Bike25/Bike25.yy",},"LayerId":{"name":"07a3169f-3d6a-4873-aa92-ec6cbd33d128","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Bike25","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","name":"ba1bcfe1-4073-4f32-be32-cf2773eec1c0","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"82e17110-84ef-4ac6-a363-846f0d82302f","path":"sprites/Bike25/Bike25.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"82e17110-84ef-4ac6-a363-846f0d82302f","path":"sprites/Bike25/Bike25.yy",},"LayerId":{"name":"07a3169f-3d6a-4873-aa92-ec6cbd33d128","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Bike25","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","name":"82e17110-84ef-4ac6-a363-846f0d82302f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"01ac1876-a65c-48d6-994f-a3ba576ba451","path":"sprites/Bike25/Bike25.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"01ac1876-a65c-48d6-994f-a3ba576ba451","path":"sprites/Bike25/Bike25.yy",},"LayerId":{"name":"07a3169f-3d6a-4873-aa92-ec6cbd33d128","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Bike25","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","name":"01ac1876-a65c-48d6-994f-a3ba576ba451","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9c81bd2f-2420-4b03-b880-bf3f6255f015","path":"sprites/Bike25/Bike25.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9c81bd2f-2420-4b03-b880-bf3f6255f015","path":"sprites/Bike25/Bike25.yy",},"LayerId":{"name":"07a3169f-3d6a-4873-aa92-ec6cbd33d128","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Bike25","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","name":"9c81bd2f-2420-4b03-b880-bf3f6255f015","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"4ea54d2b-4f99-4549-aeaf-804cb25d30f7","path":"sprites/Bike25/Bike25.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4ea54d2b-4f99-4549-aeaf-804cb25d30f7","path":"sprites/Bike25/Bike25.yy",},"LayerId":{"name":"07a3169f-3d6a-4873-aa92-ec6cbd33d128","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Bike25","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","name":"4ea54d2b-4f99-4549-aeaf-804cb25d30f7","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"3d50527d-d4ce-4196-8652-eb51bd2d4b46","path":"sprites/Bike25/Bike25.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3d50527d-d4ce-4196-8652-eb51bd2d4b46","path":"sprites/Bike25/Bike25.yy",},"LayerId":{"name":"07a3169f-3d6a-4873-aa92-ec6cbd33d128","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Bike25","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","name":"3d50527d-d4ce-4196-8652-eb51bd2d4b46","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"f285af46-7bed-4ad7-bc60-8513f6fec884","path":"sprites/Bike25/Bike25.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f285af46-7bed-4ad7-bc60-8513f6fec884","path":"sprites/Bike25/Bike25.yy",},"LayerId":{"name":"07a3169f-3d6a-4873-aa92-ec6cbd33d128","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Bike25","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","name":"f285af46-7bed-4ad7-bc60-8513f6fec884","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"732989d8-c758-492f-906b-e1cf413125a2","path":"sprites/Bike25/Bike25.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"732989d8-c758-492f-906b-e1cf413125a2","path":"sprites/Bike25/Bike25.yy",},"LayerId":{"name":"07a3169f-3d6a-4873-aa92-ec6cbd33d128","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Bike25","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","name":"732989d8-c758-492f-906b-e1cf413125a2","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"85408d1c-a1d0-4462-9997-dd83de0bcc01","path":"sprites/Bike25/Bike25.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"85408d1c-a1d0-4462-9997-dd83de0bcc01","path":"sprites/Bike25/Bike25.yy",},"LayerId":{"name":"07a3169f-3d6a-4873-aa92-ec6cbd33d128","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Bike25","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","name":"85408d1c-a1d0-4462-9997-dd83de0bcc01","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"363a4c7b-17b0-4cf8-8926-c2819250f8ad","path":"sprites/Bike25/Bike25.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"363a4c7b-17b0-4cf8-8926-c2819250f8ad","path":"sprites/Bike25/Bike25.yy",},"LayerId":{"name":"07a3169f-3d6a-4873-aa92-ec6cbd33d128","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Bike25","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","name":"363a4c7b-17b0-4cf8-8926-c2819250f8ad","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"df2be8f4-6d15-410b-949e-b11612f99e07","path":"sprites/Bike25/Bike25.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"df2be8f4-6d15-410b-949e-b11612f99e07","path":"sprites/Bike25/Bike25.yy",},"LayerId":{"name":"07a3169f-3d6a-4873-aa92-ec6cbd33d128","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Bike25","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","name":"df2be8f4-6d15-410b-949e-b11612f99e07","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"439aaf89-eb4e-49cb-b43e-65b02e775901","path":"sprites/Bike25/Bike25.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"439aaf89-eb4e-49cb-b43e-65b02e775901","path":"sprites/Bike25/Bike25.yy",},"LayerId":{"name":"07a3169f-3d6a-4873-aa92-ec6cbd33d128","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Bike25","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","name":"439aaf89-eb4e-49cb-b43e-65b02e775901","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9bc2be28-adc5-4199-a501-66bdddd2ea96","path":"sprites/Bike25/Bike25.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9bc2be28-adc5-4199-a501-66bdddd2ea96","path":"sprites/Bike25/Bike25.yy",},"LayerId":{"name":"07a3169f-3d6a-4873-aa92-ec6cbd33d128","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Bike25","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","name":"9bc2be28-adc5-4199-a501-66bdddd2ea96","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1c5af6d5-1263-46d7-b79c-6d77460ecf29",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d26f6e87-f306-46d4-93db-bd0101a4f478",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"edf0240b-f56a-40f6-be9d-ffdbdb2deffe",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ba1bcfe1-4073-4f32-be32-cf2773eec1c0",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"82e17110-84ef-4ac6-a363-846f0d82302f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"01ac1876-a65c-48d6-994f-a3ba576ba451",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9c81bd2f-2420-4b03-b880-bf3f6255f015",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4ea54d2b-4f99-4549-aeaf-804cb25d30f7",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3d50527d-d4ce-4196-8652-eb51bd2d4b46",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f285af46-7bed-4ad7-bc60-8513f6fec884",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"732989d8-c758-492f-906b-e1cf413125a2",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"85408d1c-a1d0-4462-9997-dd83de0bcc01",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"363a4c7b-17b0-4cf8-8926-c2819250f8ad",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"df2be8f4-6d15-410b-949e-b11612f99e07",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"439aaf89-eb4e-49cb-b43e-65b02e775901",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9bc2be28-adc5-4199-a501-66bdddd2ea96",},
   ],
   "sequence": {
-    "spriteId": {"name":"Bike25","path":"sprites/Bike25/Bike25.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "Bike25",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 10.0,
@@ -85,7 +59,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"9d56c10a-a438-43da-87ef-16ab7c394ee3","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1c5af6d5-1263-46d7-b79c-6d77460ecf29","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"31402970-5368-4154-8797-89e66d911719","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d26f6e87-f306-46d4-93db-bd0101a4f478","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"cd120c6e-eac6-4128-a590-ec5b1237609a","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"edf0240b-f56a-40f6-be9d-ffdbdb2deffe","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -102,7 +76,7 @@
             {"id":"6cb4453f-8cff-40d7-b235-e4015e5bf0fe","Key":13.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"df2be8f4-6d15-410b-949e-b11612f99e07","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"dca4608e-9d47-4884-a608-40c546764541","Key":14.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"439aaf89-eb4e-49cb-b43e-65b02e775901","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"4d881f2a-27f2-4301-9a2a-3e4e3d9b4cc6","Key":15.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9bc2be28-adc5-4199-a501-66bdddd2ea96","path":"sprites/Bike25/Bike25.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -118,22 +92,13 @@
     "yorigin": 16,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"Bike25","path":"sprites/Bike25/Bike25.yy",},
-    "resourceVersion": "1.3",
-    "name": "Bike25",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"07a3169f-3d6a-4873-aa92-ec6cbd33d128","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"07a3169f-3d6a-4873-aa92-ec6cbd33d128","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "Jogador",
     "path": "folders/Sprites/Jogador.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "Bike25",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

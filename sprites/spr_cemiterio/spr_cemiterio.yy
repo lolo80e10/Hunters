@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_cemiterio",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 684,
   "height": 548,
   "textureGroupId": {
@@ -24,12 +28,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"c2c18198-cba5-4363-9cbe-cc3ef479ba19","path":"sprites/spr_cemiterio/spr_cemiterio.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c2c18198-cba5-4363-9cbe-cc3ef479ba19","path":"sprites/spr_cemiterio/spr_cemiterio.yy",},"LayerId":{"name":"f28d9ab0-a162-4039-a032-7f929c96f65f","path":"sprites/spr_cemiterio/spr_cemiterio.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cemiterio","path":"sprites/spr_cemiterio/spr_cemiterio.yy",},"resourceVersion":"1.0","name":"c2c18198-cba5-4363-9cbe-cc3ef479ba19","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c2c18198-cba5-4363-9cbe-cc3ef479ba19",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_cemiterio","path":"sprites/spr_cemiterio/spr_cemiterio.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_cemiterio",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -40,9 +44,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"4ae91a59-f1c0-4e2c-b8b0-f37d7d4dd051","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c2c18198-cba5-4363-9cbe-cc3ef479ba19","path":"sprites/spr_cemiterio/spr_cemiterio.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -58,22 +62,13 @@
     "yorigin": 441,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_cemiterio","path":"sprites/spr_cemiterio/spr_cemiterio.yy",},
-    "resourceVersion": "1.3",
-    "name": "spr_cemiterio",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"f28d9ab0-a162-4039-a032-7f929c96f65f","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"f28d9ab0-a162-4039-a032-7f929c96f65f","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "Casas",
     "path": "folders/Sprites/Casas.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_cemiterio",
-  "tags": [],
-  "resourceType": "GMSprite",
 }
